@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="91px" viewBox="0 0 91 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.271141 0 0 0 0 0.470271 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page-confirmed" transform="translate(-675.000000, -2302.000000)">
+            <g id="Group" transform="translate(675.000000, 2302.000000)">
+                <g transform="translate(20.000000, 20.000000)" id="Action/ic_done" filter="url(#filter-1)">
+                    <g id="ic_done">
+                        <polygon id="Bounds" points="0 0 52 0 52 52 0 52"></polygon>
+                        <polygon id="Icon" fill="#000000" points="19.5 35.1 10.4 26 7.36666667 29.0333333 19.5 41.1666667 45.5 15.1666667 42.4666667 12.1333333"></polygon>
+                    </g>
+                </g>
+                <circle id="Oval" stroke="#4578FF" cx="45.5" cy="45.5" r="45"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
